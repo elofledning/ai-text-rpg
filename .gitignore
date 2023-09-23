@@ -1,3 +1,9 @@
+
+# Custom ignores
+API_KEY
+
+# ---- STANDARD TEMPLATE BELOW THIS POINT ----
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
